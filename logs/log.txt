@@ -3,3 +3,13 @@
 Ouverture du fichier suivi_compta.xlsm le 17/08/2023  à 16:07:50
 Adrien Dubois
 ##########################################################################################
+##########################################################################################
+-- Ouverture du fichier --
+Ouverture du fichier suivi_compta.xlsm le 07/02/2024  à 09:51:09
+Adrien Dubois
+##########################################################################################
+FEVRIER,$B$7:$L$7,,Valeur inconnue,adrie,07/02/2024 09:51:11|
+FEVRIER,$B$8:$L$8,report de solde,Valeur inconnue,adrie,07/02/2024 09:51:12|
+FEVRIER,$C$7,,Annimaux,adrie,07/02/2024 09:51:13|
+FEVRIER,$B$8:$L$8,,Valeur inconnue,adrie,07/02/2024 09:51:18|
+FEVRIER,$B$7:$L$7,,Valeur inconnue,adrie,07/02/2024 09:51:18|
